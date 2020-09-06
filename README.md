@@ -1,1 +1,1 @@
-# jsp-mysql-mvc-join
+# Online Internship Application
