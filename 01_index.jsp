@@ -52,6 +52,7 @@
 
 <%--
 
+include this resource on server.xml 
 <Resource 
 	auth="Container" 
 	driverClassName="com.mysql.cj.jdbc.Driver"
